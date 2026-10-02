@@ -6,7 +6,7 @@ The existing Cloudflare Pages project is `harrison-burchett-cv` (preview hostnam
 
 ## Content provenance
 
-- Harrison explicitly corrected all UFC show credits on October 2, 2026: Director of Photography on Embedded, Countdown and The Walk. Do not describe Harrison as a producer or field producer, regardless of third-party credit lists.
+- Latest user-confirmed credits (October 2, 2026): Director of Photography on UFC Embedded; Videographer on UFC Countdown and UFC The Walk. No producer or field-producer credits. This supersedes the earlier all-DP instruction.
 - Biography: user-supplied five-year UFC background, Kentucky Athletics experience, and Overhand co-founder role.
 - Official series previews are representative UFC program material, not claims of sole authorship of every shot.
 - On-location photo: existing Overhand repository founders photo.
@@ -31,3 +31,9 @@ Run `npm run build`. For the static Pages configuration, serve the repository ro
 ## Typography revision
 
 Syne 600/700 for display text and Manrope 400/500 for body text. Fonts are self-hosted; OFL licenses are included. UFC copy rewritten to describe concrete shooting work.
+
+## User-selected episodes
+
+- Embedded: https://www.youtube.com/watch?v=yn77Z3wvejM — UFC 319 Embedded: Vlog Series - Episode 2. Credit: Director of Photography.
+- Countdown: https://www.youtube.com/watch?v=1rhA2WVNWHM — UFC 326 Countdown - Full Episode. Credit: Videographer.
+- The Walk video unchanged. Credit: Videographer.
